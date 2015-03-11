@@ -47,19 +47,6 @@ if not @REPLIT?
       LOLCODE v1.2 (lol-coffee)
       Copyright (c) 2011 Max Shawabkeh
     '''
-  brainfuck:
-    name: 'BrainF***'
-    tagline: 'A pure Turing machine controller.'
-    shortcut: 'F'
-    about_link: 'http://en.wikipedia.org/wiki/Brainfuck'
-    engine_link: 'https://github.com/replit/bfjs'
-    examples:
-      editor: '/langs/brainfuck/examples-editor.html'
-      console: '/langs/brainfuck/examples-console.html'
-    header: '''
-      BrainF***, bfjs
-      Copyright (c) 2011 Amjad Masad
-    '''
   emoticon:
     name: 'Emoticon'
     tagline: 'Programming with an extra dose of smile.'

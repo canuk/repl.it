@@ -183,7 +183,7 @@ task 'langs-html', ->
         languages: ['Ruby', 'Python', 'Lua', 'Scheme']
       Esoteric:
         category: 'Esoteric'
-        languages: ['Emoticon', 'Brainfuck', 'LOLCODE', 'Unlambda', 'Bloop']
+        languages: ['Emoticon', 'LOLCODE', 'Unlambda', 'Bloop']
       Web:
         category: 'Web'
         languages: ['JavaScript', 'Traceur', 'Move', 'Kaffeine', 'CoffeeScript', 'Roy']
